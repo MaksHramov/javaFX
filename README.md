@@ -22,11 +22,11 @@
 
 ## Ссылка на продукт или демо
 **https:** 
-https://github.com/Lodiger/Lab1_26.09.25.git
+https://github.com/MaksHramov/javaFX
 
 **ssh:** 
 ```shell
-git@github.com:Lodiger/Lab1_26.09.25.git
+https://github.com/MaksHramov/javaFX
 ```
 Приложение запускается локально через **HelloApplication.java** в среде IntelliJ IDEA или другой Java IDE, поддерживающей JavaFX.
 

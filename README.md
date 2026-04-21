@@ -41,7 +41,7 @@ https://github.com/MaksHramov/javaFX
 ---
 
 ## Скриншот
-![Рабочее окно приложения](image.png)  
+<img width="920" height="565" alt="image" src="https://github.com/user-attachments/assets/2d2d5781-b1a3-4197-9cd6-66d2de868d84" />
 *(Здесь можно вставить скриншот приложения, где показан Canvas с несколькими фигурами.)*  
 
 ---
